@@ -6,11 +6,12 @@
 🔭 Currently working on Student Budget Buddy, a finance tracking app for students  
 💼 Self-taught developer with a passion for web and cloud technologies  
 🚀 Building practical solutions to real-world problems  
-🌱 Always learning and expanding my knowledge in AI integration and cloud services  
+🌱 Always learning and expanding my knowledge in AI integration and cloud services
 
 ## 🚀 Featured Projects
 
 ### Job Hub | Job Application Tracking App
+
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
@@ -21,6 +22,7 @@ A centralized application for tracking job applications, featuring authenticatio
 [View Project](https://github.com/Biolater/jobhub) | [Live Demo](https://newmain.d2uhr2kwe1sd1q.amplifyapp.com/home-page)
 
 ### Student Budget Buddy | Finance Management for Students
+
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
@@ -33,8 +35,9 @@ A comprehensive budget tracking application for students with expense tracking, 
 ## 💻 Tech Stack
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -44,12 +47,14 @@ A comprehensive budget tracking application for students with expense tracking, 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -58,25 +63,30 @@ A comprehensive budget tracking application for students with expense tracking, 
 ![Firebase Realtime Database](https://img.shields.io/badge/Firebase%20Realtime%20Database-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Cloud/DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ## 📊 GitHub Stats:
+
 <!-- Replace YourUsername with your actual GitHub username -->
+
 ![](https://github-readme-stats.vercel.app/api?username=biolater&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=biolater&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=biolater&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- GitHub contribution snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biolater/biolater/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biolater/biolater/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/biolater/biolater/output/github-snake.svg" />
 </picture>
 
 ## 🤝 Let's Connect!
+
 I'm always open to interesting projects and collaboration opportunities.
 
 <!-- Replace with your actual social media links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murad-yusubov) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murad-yusubov)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://muradyusubov-portfolio.vercel.app/)
