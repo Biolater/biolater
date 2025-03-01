@@ -1,7 +1,7 @@
 <!-- Replace the path with your banner image -->
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World! 👋 I'm Murat, a Full-Stack Developer from Baku
+# Hello World! 👋 I'm Murad, a Full-Stack Developer from Baku
 
 🔭 Currently working on Student Budget Buddy, a finance tracking app for students  
 💼 Self-taught developer with a passion for web and cloud technologies  
@@ -18,7 +18,7 @@
 
 A centralized application for tracking job applications, featuring authentication, manual job adding, and integrated job board with API integrations.
 
-[View Project](your-project-link) | [Live Demo](your-demo-link)
+[View Project](https://github.com/Biolater/jobhub) | [Live Demo](https://newmain.d2uhr2kwe1sd1q.amplifyapp.com/home-page)
 
 ### Student Budget Buddy | Finance Management for Students
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
@@ -28,7 +28,7 @@ A centralized application for tracking job applications, featuring authenticatio
 
 A comprehensive budget tracking application for students with expense tracking, budget creation, visualization charts, and planned AI integration for financial insights.
 
-[View Project](your-project-link) | [Live Demo](your-demo-link)
+[View Project](https://github.com/Biolater/Student-Budget-Buddy) | [Live Demo](https://student-bugdet-buddy-lyje.vercel.app)
 
 ## 💻 Tech Stack
 
@@ -55,15 +55,17 @@ A comprehensive budget tracking application for students with expense tracking, 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Firebase Realtime Database](https://img.shields.io/badge/Firebase%20Realtime%20Database-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Cloud/DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ## 📊 GitHub Stats:
 <!-- Replace YourUsername with your actual GitHub username -->
-![](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=biolater&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=biolater&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=biolater&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- GitHub contribution snake -->
 <picture>
@@ -76,5 +78,5 @@ A comprehensive budget tracking application for students with expense tracking, 
 I'm always open to interesting projects and collaboration opportunities.
 
 <!-- Replace with your actual social media links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YourLinkedInURL) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](YourPortfolioURL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murad-yusubov) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://muradyusubov-portfolio.vercel.app/)
