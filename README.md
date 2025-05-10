@@ -87,6 +87,6 @@ A comprehensive budget tracking application for students with expense tracking, 
 I'm always open to interesting projects and collaboration opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murad-yusubov/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://muradyusubov.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://muradyusubov.dev/)
 
 📫 Email: yusifovmurad1@gmail.com
