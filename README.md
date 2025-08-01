@@ -1,29 +1,29 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 <h1 align="center">🧠 Murad Yusubov | Full-Stack Developer</h1>
-<p align="center">Crafting practical, high-impact web applications with a passion for learning and problem-solving.</p>
+<p align="center">Crafting scalable, production-ready web apps with a focus on performance, clarity, and problem-solving.</p>
 
 ---
 
 ## 👋 About Me
 
-I'm **Murad Yusubov**, an 18-year-old self-taught Full-Stack Developer from Baku, currently studying in Turkey. With over 3 years of experience, I’ve built real-world applications and contributed to fast-paced startups, focusing on both **frontend excellence** and **backend efficiency**.
+I'm **Murad Yusubov** — an 18-year-old self-taught full-stack developer based in Turkey, currently working on a complex CRM product (**SoftSync**) modeled after folk.app while studying Computer Science.
 
-I specialize in **JavaScript**, **TypeScript**, and modern frameworks like **Next.js**, **Remix**, and **Node.js**. Beyond web development, I’m steadily preparing to transition into **AI/ML engineering** — aiming to solve real-world problems through intelligent systems in the future.
+Over the past 3+ years, I’ve shipped real products, contributed to production startups, and honed a skillset that blends **frontend precision** with **backend reliability**. I specialize in **JavaScript**, **TypeScript**, **Next.js**, and **Node.js**, and I'm steadily expanding into **AI/ML engineering** using Python and core data tools.
 
-My development philosophy is grounded in:
-- **Consistency and craftsmanship** over hype.
-- **Solving real problems** through thoughtful design and reliable code.
-- Building a career that balances **technical growth, financial independence, and global impact**.
+My engineering mindset:
+- Write code that scales and lasts
+- Deliver polished user experiences with clean logic
+- Solve real business problems — not just technical puzzles
 
 ---
 
 ## 💼 Current Focus
 
-- 🔧 Strengthening my full-stack portfolio through **polished, complete side projects**.
-- 💼 Gaining practical experience as a **frontend developer at ASCND**, a content platform startup.
-- 🎯 Transitioning toward **AI/ML**, starting with Python, Pandas, NumPy, and core machine learning concepts.
-- 💰 Exploring **freelancing and remote job opportunities** to build income and stability.
+- 🧾 Building advanced UIs and dashboard logic at **SoftSync**, a CRM app for client and team management
+- 💰 Built [**Student Budget Buddy**](https://github.com/biolater/student-budget-buddy): a full-stack budgeting app with multi-currency support, AI Insights, category-based budgeting, and Clerk authentication
+- 🧠 Developing AI/ML foundations: Python · Pandas · NumPy · Matplotlib · scikit-learn
+- 🌍 Preparing for freelance and remote roles with high-quality portfolio and reliable delivery skills
 
 ---
 
