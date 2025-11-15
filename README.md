@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="https://9nghnaawajmv9mqf.public.blob.vercel-storage.com/github-header-banner.png" alt="GitHub Banner" width="100%" />
 
 <h1 align="center">🧠 Murad Yusubov | Full-Stack Developer</h1>
 <p align="center">Building production-ready web applications with clean architecture, scalable systems, and real business impact.</p>
